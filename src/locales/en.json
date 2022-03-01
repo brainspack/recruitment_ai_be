@@ -1,0 +1,12 @@
+{
+	"success": {
+		"loginSuccess": "success.loginSuccess",
+		"welcome": "success.welcome",
+		"logout": "success.logout"
+	},
+	"errors": {
+		"credentialsMisMatch": "errors.credentialsMisMatch",
+		"somethingBadHappened": "errors.somethingBadHappened",
+		"badRequest": "errors.badRequest"
+	}
+}
